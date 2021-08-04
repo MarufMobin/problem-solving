@@ -49,6 +49,3 @@
 // let resultOfThreeNumber =  sumOfThreeNumber( numberOne, numberTwo, numberThree ); 
 
 // console.log(resultOfThreeNumber);
-
-
-
